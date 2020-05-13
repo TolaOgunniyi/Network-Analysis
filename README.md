@@ -29,15 +29,15 @@ The project will be completed using a jupyter notebook that consists of 2 parts 
 
  ----
  ### Visualizations in the dataset
-There are three figures provided. These are visualizations created in the exploratory data analysis (section ii) of Part 1. All three 
-visualizations were created using Plotly express. The charts have also been included as an image file with links attached.A summary of the each chart is provided below:
+The charts provided below are included as an image file with links attached. Plotly express was used to create both charts as part 
+of the exploratory data analysis phase of the project.
 
 ![top terms](images/top20products.png)
 <div align="center"> Figure 1-Top 20 products sold by the UK online retailer</div>
 <br> 
 
 ![top terms](images/ProductSales.png)
-<div align="center"> Figure 2-Distribution of number of times users have assigned a score(s) to different products</div>
+<div align="center"> Figure 2- Bar chart showing the sales amount grouped by countries</div>
 <br> 
 
 ### References
