@@ -40,10 +40,6 @@ visualizations were created using Plotly express. The charts have also been incl
 <div align="center"> Figure 2-Distribution of number of times users have assigned a score(s) to different products</div>
 <br> 
 
-![top terms](images/userID.png)
-<div align="center"> Figure 3-Distribution of number of customers that have assigned a score(s) to different products</div>
-<br> 
-
 ### References
 - https://gephi.org/users/quick-start/
 
